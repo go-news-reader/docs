@@ -1,0 +1,11 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="go-news-reader">
+  <defs><linearGradient id="gocyan" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22CCE2"/><stop offset="1" stop-color="#0079A8"/></linearGradient></defs>
+  <rect width="256" height="256" rx="56" fill="url(#gocyan)"/>
+  <g stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="64" y="70" width="128" height="34" rx="10"/>
+    <rect x="64" y="116" width="128" height="34" rx="10"/>
+    <rect x="64" y="162" width="80" height="30" rx="10"/>
+    <path d="M82 87h40M82 133h40"/>
+  </g>
+  <circle cx="168" cy="177" r="16" fill="#FFFFFF"/>
+</svg>
